@@ -1,5 +1,6 @@
 # DevelopUtils
 Development essay
+[![](https://jitpack.io/v/levinlove/DevelopUtils.svg)](https://jitpack.io/#levinlove/DevelopUtils)
 #### Step1
  //library中部分类库需要偶从jitpack上拉取 所以这里需要引入
  
